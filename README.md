@@ -3,6 +3,9 @@
 A fun and interactive decentralized Truth or Dare game built with Solidity and deployed on the Ethereum and Solana test networks.
 This project shows how blockchain can make social games more transparent, fair, and community-driven through verifiable on-chain interactions.
 
+<img width="1886" height="1088" alt="Screenshot 2025-10-30 202431" src="https://github.com/user-attachments/assets/083689b5-86e8-4707-a4b0-dc286fe49935" />
+
+
 📜 Project Description
 TruthDareChain allows users to create, upvote, and play Truth or Dare challenges using their crypto wallets.
 Each challenge whether it’s a Truth question or a Dare task is stored permanently on-chain.
